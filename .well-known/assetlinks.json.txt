@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.atflabs.litchies",
+               "sha256_cert_fingerprints": ["66:96:F9:A7:2D:9A:7A:AD:DD:67:59:18:99:1D:F7:23:6A:28:50:33:44:B3:77:86:A2:52:44:59:3D:F3:38:F4"] }
+}]

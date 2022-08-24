@@ -20,7 +20,7 @@
     "index.html": "/index.html",
     "main.2c34ebf1.css.map": "/static/css/main.2c34ebf1.css.map",
     "main.9aaa4c04.js.map": "/static/js/main.9aaa4c04.js.map",
-    ".well-known/assetlinks.json": "/.well-known/assetslinks.json"
+    ".well-known/assetlinks.json": "/.well-known/assetlinks.json"
   },
   "entrypoints": [
     "static/css/main.2c34ebf1.css",

@@ -19,7 +19,8 @@
     "static/media/logo.png": "/static/media/logo.30c315a9aa6475b99572.png",
     "index.html": "/index.html",
     "main.2c34ebf1.css.map": "/static/css/main.2c34ebf1.css.map",
-    "main.9aaa4c04.js.map": "/static/js/main.9aaa4c04.js.map"
+    "main.9aaa4c04.js.map": "/static/js/main.9aaa4c04.js.map",
+    ".well-known/assetlinks.json": "/.well-known/assetslinks.json"
   },
   "entrypoints": [
     "static/css/main.2c34ebf1.css",
